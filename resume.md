@@ -10,7 +10,11 @@ Software Architect, Programmer, Teacher. I love finding solutions when people ar
 
 ## Occupation
 `2022 - 2022`
-**Software developer**, *Spilter*, Almere
+**Software developer Spilter**, *Code-Cafe*, Utrecht
+
+- *Responsible for fixing software bugs*
+- *Typescript/KnockoutJS/HTML/CSS*
+- *ASP.NET*
 
 `2022 - Now`
 **IT Docent**, *Code Café*, Utrecht
