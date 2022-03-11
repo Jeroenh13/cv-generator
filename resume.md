@@ -48,8 +48,8 @@ Software Architect, Programmer, Teacher. I love finding solutions when people ar
 | REST                      |     |     |     |  X  |     |
 | Jenkins                   |     |  X  |     |     |     |
 | Azure Pipelines           |  X  |     |     |     |     |
-| NodeJS                    |  X  |     |     |  X  |     |
-| Angular                   |  X  |     |     |  X  |     |
+| NodeJS                    |  X  |     |     |     |     |
+| Angular                   |  X  |     |     |     |     |
 | Powershell                |     |  X  |     |     |     |
 | Unity                     |     |     |     |  X  |     |
 
