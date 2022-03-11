@@ -1,6 +1,6 @@
 ---
 title: Jeroen Hendriks
-date: "Last updated: January 2022"
+date: "Last updated: March 2022"
 ---
 ## About Me
 
@@ -55,6 +55,7 @@ Software Architect, Programmer, Teacher. I love finding solutions when people ar
 
 
 | Soft skills       | 
+| ----------------- | 
 | Scrum             | 
 | Agile             | 
 | Communicative     |  
