@@ -36,12 +36,29 @@ Software Architect, Programmer, Teacher. I love finding solutions when people ar
 **HBO-ICT**, *Fontys Hogeschool Eindhoven*
 
 ## Skills
-| Technical          | Soft                 |
-| ------------------ | -------------------- |
-| Git                | Scrum                |
-| C#                 | Agile                |
-| Java               | Communicative        |
-| SQL                |                      |
+| Skill                     | 1 | 2 | 3 | 4 | 5 | 
+| ------------------------- | - | - | - | - | - | 
+| Git                       |   |   |   | X |   | 
+| C#                        |   |   |   |   | X |
+| Java                      |   |   |   | X |   |
+| C# WPF                    |   |   | X |   |   |
+| SignalR                   |   |   | X |   |   |
+| SQL                       |   |   |   | X |   |
+| ORM (EFCore/NHibernate)   |   |   |   | X |   |
+| REST                      |   |   |   | X |   |
+| Jenkins                   |   | X |   |   |   |
+| Azure Pipelines           | X |   |   |   |   |
+| NodeJS                    | X |   |   | X |   |
+| Angular                   | X |   |   | X |   |
+| Powershell                |   | X |   |   |   |
+| Unity                     |   |   |   | X |   |
+
+
+| Soft skills       | 
+| Scrum             | 
+| Agile             | 
+| Communicative     |  
+
 
 ## Languages
 ### Native
