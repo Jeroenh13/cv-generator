@@ -36,7 +36,7 @@ Software Architect, Programmer, Teacher. I love finding solutions when people ar
 **HBO-ICT**, *Fontys Hogeschool Eindhoven*
 
 ## Skills
-| **Skill**                 |  1  |  2  |  3  |  4  |  5  | 
+| **Technical Skills**      |  1  |  2  |  3  |  4  |  5  | 
 | ------------------------- | :-: | :-: | :-: | :-: | :-: | 
 | Git                       |     |     |     |   X |     | 
 | C#                        |     |     |     |     |  X  |
