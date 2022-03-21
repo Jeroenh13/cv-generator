@@ -34,6 +34,9 @@ Software Architect, Programmer, Teacher. I love finding solutions when people ar
 ## Education
 `2013 - 2018`
 **HBO-ICT**, *Fontys Hogeschool Eindhoven*
+`2016 - 2017`
+**Minor GameDesign**, *Fontys Hogeschool Eindhoven*
+
 
 ## Skills
 | **Technical Skills**      |  1  |  2  |  3  |  4  |  5  | 
